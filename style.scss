@@ -1,0 +1,21 @@
+#todo{
+  td.checked{
+    text-decoration: line-through;
+  }
+  td.hide{
+    opacity: 0.5;
+  }
+  .flex{
+    display: flex;
+  }
+  th, td {
+    padding: 15px;
+    text-align: left;
+  }
+  table, th, td {
+    border: 1px solid #b4b4b4;
+  }
+  table{
+    border-collapse: collapse;
+  }
+}
